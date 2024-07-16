@@ -4,14 +4,14 @@ const songs = [
   {
     id: "1",
     songName: `On My Way<br>
-        <div class="subtitle">Alan Walker</div>`,
+        <div class="subtitle">Bunny</div>`,
     poster: "img/1.jpg",
   },
   {
     id: "2",
-    songName: `Alan Walker-Fade<br>
-        <div class="subtitle">Alan Walker</div>`,
-    poster: "img/2.jpg",
+    songName: `Song<br>
+        <div class="subtitle">Bunny</div>`,
+    poster: "img/2.jpeg",
   },
   {
     id: "3",
